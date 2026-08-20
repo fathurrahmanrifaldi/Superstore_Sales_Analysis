@@ -55,7 +55,7 @@ Dataset berisi **9.800 baris transaksi** dengan informasi order, pelanggan, prod
 
 ```
 ├── Superstore_Sales_Analysis.xlsx   # Workbook lengkap (Data, Summary, Dashboard, Insights)
-├── train.csv                        # Dataset mentah
+├── superstore_sales.csv                        # Dataset mentah
 └── README.md
 ```
 
