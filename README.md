@@ -40,7 +40,7 @@ Dataset berisi **9.800 baris transaksi** dengan informasi order, pelanggan, prod
 | `Top10_State` | 10 state dengan penjualan tertinggi |
 
 ##  Temuan Utama
-
+![dashboard](dashboard.png)
 - **Technology** adalah kategori dengan penjualan tertinggi meskipun jumlah transaksinya paling sedikit — menandakan nilai per transaksi yang besar.
 - **Region West** memimpin penjualan, sementara **Region South** paling rendah dan berpotensi jadi target ekspansi.
 - Penjualan menunjukkan **pola musiman yang konsisten**, dengan puncak setiap tahun terjadi di bulan **November–Desember**.
